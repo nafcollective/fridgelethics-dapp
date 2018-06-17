@@ -1,8 +1,8 @@
 pragma solidity ^0.4.24;
 
 
-import "./ERC20Basic.sol";
-import "../../math/SafeMath.sol";
+import "./interfaces/ERC20Basic.sol";
+import "./libraries/SafeMath.sol";
 
 
 /**
